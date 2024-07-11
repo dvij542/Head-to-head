@@ -1,0 +1,3 @@
+conda activate mlagents
+cd C:\Users\dvijk\HierarchicalKarting-master\HierarchicalKarting-master\Assets\Karting\Prefabs\AI
+mlagents-learn kart_mg_trainer_config_new.yaml --run-id train_with_constant_lambda --resume
