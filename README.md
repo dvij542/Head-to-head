@@ -1,4 +1,4 @@
-# Hierarchical Karting
+# Head-to-head racing
 Code for the paper 'Towards Optimal Head-to-head Autonomous Racing with
 Curriculum Reinforcement Learning'
 ## Code Structure
